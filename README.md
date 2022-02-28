@@ -12,5 +12,7 @@ and directly in front and behind are blocked off
 ## Instructions
 1. Navigate to the directory of the project containing all the files
 2. In the terminal run 
+
         python main.py [path to input file]
+        
 3. Output file is available in the tests folder
