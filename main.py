@@ -1,4 +1,3 @@
-from asyncore import write
 from theatre import theatre
 import sys
 import os
