@@ -33,5 +33,5 @@ and directly in front and behind are blocked off
 
 ## Potential Improvements
 1. Capacity currently isn't maximized since groups aren't split apart. 
-2. In a real theatre, middle seats are more valuable, so modify the algorithm to start
+2. In a real theater, middle seats are more valuable, so modify the algorithm to start
 searching from the middle of the row first.
