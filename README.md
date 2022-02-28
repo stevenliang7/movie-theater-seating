@@ -30,3 +30,8 @@ and directly in front and behind are blocked off
         python main.py [path to input file]
 
 3. Output file is available in the tests folder
+
+## Potential Improvements
+1. Capacity currently isn't maximized since groups aren't split apart. 
+2. In a real theatre, middle seats are more valuable, so modify the algorithm to start
+searching from the middle of the row first.
